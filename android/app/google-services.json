@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "632738475834",
+    "project_id": "quizlet-1fa8e",
+    "firebase_url":"https://quizlet-1fa8e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "quizlet-1fa8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632738475834:android:d4bf706b374a8303a56a03",
+        "android_client_info": {
+          "package_name": "com.example.quizlet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4GjRVQG1lc67qzGdmR64oTpQndGGl6_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
